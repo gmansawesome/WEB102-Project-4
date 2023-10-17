@@ -4,7 +4,7 @@ Submitted by: **Michael Wang**
 
 This web app: **Dog App**
 
-Time spent: **2** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -41,11 +41,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenge was getting the API calls to work, and performing functions with the parsed data from the message
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Michael Wang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
